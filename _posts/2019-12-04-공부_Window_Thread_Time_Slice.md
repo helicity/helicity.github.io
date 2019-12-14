@@ -1,4 +1,4 @@
-## windows process/thread context tile slice
+## windows process/thread context time slice
 
 https://superuser.com/questions/1326252/changing-windows-thread-sheduler-timeslice
 
