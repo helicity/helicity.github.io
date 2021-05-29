@@ -22,7 +22,7 @@ baseurl                  : ""# the subpath of your site, e.g. "/blog"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Writepad for Jeffrey"
 title_separator          : "-"
 subtitle                 : "Subtitle" # site tagline that appears below site title in masthead
 name                     : "Jeffrey Jeon"
@@ -116,12 +116,12 @@ author:
   name             : "Jeffrey Jeon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I write code for my family."
-  location         : "Earth"
-  email            :
+  location         : "Korea"
+  email            : "helicity@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:heilcity@gmail.com
+      url: mailto:heilcity@gmail.com
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
