@@ -17,14 +17,14 @@
 #[JJ]
 remote_theme             : "mmistakes/minimal-mistakes"
 url                      : "https://helicity.github.io"
-baseurl                  : ""# the subpath of your site, e.g. "/blog"
+baseurl                  : '# the subpath of your site, e.g. "/blog"'
 
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Writepad for Jeffrey"
 title_separator          : "-"
-subtitle                 : "Helicity : (fluid mechanics) the extent to which corkscrew-like motion occurs, (particle physics) the projection of the spin onto the direction of momentum, (magnetohydrodynamics) magnetic helicity, the extent to which a magnetic field 'wraps around itself', (spectroscopy) circular dichroism, (chemistry) a form of axial chirality," # site tagline that appears below site title in masthead
+subtitle                 : 'Helicity : (fluid mechanics) the extent to which corkscrew-like motion occurs, (particle physics) the projection of the spin onto the direction of momentum, (magnetohydrodynamics) magnetic helicity, the extent to which a magnetic field 'wraps around itself', (spectroscopy) circular dichroism, (chemistry) a form of axial chirality,' # site tagline that appears below site title in masthead
 name                     : "Jeffrey Jeon"
 description              : "Description"
 ##url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
